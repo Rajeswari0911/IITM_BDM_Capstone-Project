@@ -22,10 +22,6 @@ This capstone project is an independent research study focused on applying data 
 
 ## ❗ Problem Statement
 
-Clearly define the business problem identified during the study.
-
-Example:
-
 > The business lacks proper data tracking and analysis, leading to inefficient decision-making and reduced profitability.
 
 ---
@@ -73,9 +69,9 @@ Example:
 
 ## 📈 Key Insights
 
-* Insight 1: *(e.g., Sales peak during weekends)*
-* Insight 2: *(e.g., Certain products have low demand)*
-* Insight 3: *(e.g., Inefficient inventory management observed)*
+* Insight 1: *( Sales peak during weekends)*
+* Insight 2: *( Certain products have low demand)*
+* Insight 3: *( Inefficient inventory management observed)*
 
 ---
 
